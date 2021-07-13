@@ -1,0 +1,12 @@
+{
+	"name": "react-native-kotlin-template",
+	"version": "1.0.0",
+	"description": "React Native Template with Kotlin and Removed Flow Config.",
+	"repository": "git@github.com:mage1k99/react-native-kotlin-template.git",
+	"author": {
+		"email": "mage1k99@gmail.com",
+		"name": "MageshBabu K",
+		"url": "https://github.com/mage1k99"
+	},
+	"license": "MIT"
+}
