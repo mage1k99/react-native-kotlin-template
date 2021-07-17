@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log("This is post init script for the project");
+console.log("\nThanks for using the template :)\n");
